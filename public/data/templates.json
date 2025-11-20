@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Business Landing",
+    "shortDescription": "A professional landing page design for businesses and corporate needs.",
+    "longDescription": "<h2>Introduction</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p><h3>Our Mission</h3><p>Suspendisse potenti. Fusce condimentum lectus eget justo volutpat...</p><img src='/images/landing01.jpg' alt='Business Graphic' /><p>Pellentesque habitant morbi tristique senectus et netus...</p><h3>Conclusion</h3><p>Donec tristique, magna ut tincidunt finibus...</p><img src='/images/landing06.jpg' alt='Business Graphic' />",
+    "image": "/images/temp1.png",
+    "category": "Business"
+  },
+  {
+    "title": "Portfolio Creative",
+    "shortDescription": "Showcase your personal brand or creative portfolio beautifully.",
+    "longDescription": "<p>This template emphasizes modern layouts, bold visuals, and clean typography, making it perfect for artists, designers, and professionals who want to stand out online.</p><p>It comes with customizable gallery sections, project highlights, and testimonial blocks to help you attract new clients.</p><p>The responsive design ensures that your work shines across desktop, tablet, and mobile devices.</p>",
+    "image": "/images/temp2.png",
+    "category": "Portfolio"
+  },
+  {
+    "title": "E-commerce Store",
+    "shortDescription": "Modern e-commerce landing page optimized for conversions.",
+    "longDescription": "<p>Built with product highlights, testimonial sections, and call-to-action banners.</p><p>This template is designed to keep users engaged and increase sales, while providing a seamless browsing experience across desktop and mobile.</p><p>It’s ideal for online stores looking to create a strong first impression.</p>",
+    "image": "/images/temp3.png",
+    "category": "E-commerce"
+  },
+  {
+    "title": "Startup SaaS",
+    "shortDescription": "Perfect for tech startups and SaaS product launches.",
+    "longDescription": "<p>Highlight your app or software features with clean sections for benefits, screenshots, and customer testimonials.</p><p>The design is optimized for high conversions and product sign-ups, giving your SaaS a professional and modern look.</p><p>This layout helps you communicate your value proposition clearly.</p>",
+    "image": "/images/temp4.png",
+    "category": "Business"
+  },
+  {
+    "title": "Corporate Business",
+    "shortDescription": "A sleek design tailored for corporate and enterprise needs.",
+    "longDescription": "<p>This template includes sections for services, team introductions, and business highlights.</p><p>It is structured to instill trust and showcase professionalism, making it ideal for companies targeting B2B or B2C clients.</p><p>Strong typography and clean layouts ensure clear communication.</p>",
+    "image": "/images/temp5.png",
+    "category": "Business"
+  },
+  {
+    "title": "Creative Portfolio",
+    "shortDescription": "Display your creative portfolio with style and impact.",
+    "longDescription": "<p>Designed for freelancers, designers, and agencies, this template focuses on large visuals and minimal text to let your work speak for itself.</p><p>The flexible gallery and case-study layout provide storytelling opportunities for each project.</p>",
+    "image": "/images/temp6.png",
+    "category": "Portfolio"
+  },
+  {
+    "title": "Fashion E-commerce",
+    "shortDescription": "A stylish and modern design for online fashion stores.",
+    "longDescription": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat sem eu justo fermentum, vitae aliquet felis facilisis. Phasellus euismod lectus a enim efficitur, ac pharetra turpis convallis. Curabitur sagittis magna in sapien ultrices, vel euismod sem suscipit.</p><p>Suspendisse potenti. Fusce condimentum lectus eget justo volutpat, sit amet iaculis libero vulputate. Proin blandit tincidunt lacus, nec feugiat ex posuere non. Quisque elementum turpis non mi hendrerit varius.</p><p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras accumsan ligula ac feugiat sagittis. Nullam sed eros orci. Mauris scelerisque neque nec est interdum, sit amet accumsan massa fringilla.</p><p>Donec tristique, magna ut tincidunt finibus, turpis mi bibendum eros, et laoreet magna lorem et elit. Nam luctus orci nec sagittis pulvinar. Proin ac felis sit amet lorem rhoncus faucibus.</p>",
+    "image": "/images/temp7.png",
+    "category": "E-commerce"
+  },
+  {
+    "title": "Tech SaaS Startup",
+    "shortDescription": "A clean landing page for innovative SaaS products.",
+    "longDescription": "<p>Featuring product highlights, app screenshots, and integration sections.</p><p>This template provides credibility for startups looking to launch new apps or digital services with style and professionalism.</p>",
+    "image": "/images/temp8.png",
+    "category": "Business"
+  },
+  {
+    "title": "Consulting Business",
+    "shortDescription": "Tailored for consultants, agencies, and corporate services.",
+    "longDescription": "<p>This template provides structured layouts for services, case studies, and testimonials.</p><p>It positions your brand as trustworthy and reliable, helping to attract corporate clients and long-term partnerships.</p>",
+    "image": "/images/temp9.png",
+    "category": "Business"
+  },
+  {
+    "title": "Minimal Portfolio",
+    "shortDescription": "A minimal and elegant template for professionals.",
+    "longDescription": "<p>Focused on simplicity, this template is perfect for showcasing photography, writing, or design projects.</p><p>The minimal design keeps attention on the portfolio content itself without distractions.</p>",
+    "image": "/images/temp10.png",
+    "category": "Portfolio"
+  },
+  {
+    "title": "Modern E-commerce",
+    "shortDescription": "Designed for online stores to boost engagement and sales.",
+    "longDescription": "<p>Includes customizable sections for products, categories, and offers.</p><p>The user-friendly layout and mobile optimization ensure customers enjoy a seamless shopping experience.</p>",
+    "image": "/images/temp11.png",
+    "category": "E-commerce"
+  },
+  {
+    "title": "Product SaaS Launch",
+    "shortDescription": "Ideal for launching SaaS products or digital tools.",
+    "longDescription": "<p>Packed with feature highlights, sign-up CTAs, and pricing tables.</p><p>This template makes it easy to onboard users and generate leads with a strong and clean design.</p>",
+    "image": "/images/temp12.png",
+    "category": "Business"
+  }
+]
