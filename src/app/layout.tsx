@@ -1,20 +1,18 @@
 // src/app/layout.js
+import Hero from "./components/Hero";
 import "./styles/globals.css";
 import { Geist, Geist_Mono } from "next/font/google";
 
-// ✅ Load fonts with deterministic behavior
 const geistSans = Geist({
   subsets: ["latin"],
   variable: "--font-geist-sans",
   display: "swap",
-  adjustFontFallback: false, // prevent unexpected fallback mismatch
 });
 
 const geistMono = Geist_Mono({
   subsets: ["latin"],
   variable: "--font-geist-mono",
   display: "swap",
-  adjustFontFallback: false,
 });
 
 export const metadata = {
@@ -28,9 +26,13 @@ export default function RootLayout({ children }) {
       <head />
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-        suppressHydrationWarning
       >
-        {children}
+      
+        {/* ⭐ Global container wrapper */}
+        <div className="container mx-auto px-4">
+            {/* <Hero /> */}
+          {children}
+        </div>
       </body>
     </html>
   );

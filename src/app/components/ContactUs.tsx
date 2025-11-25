@@ -31,7 +31,7 @@ export default function ContactUs() {
   };
 
   return (
-    <section className="page-section max-w-3xl mx-auto px-6 py-16">
+    <section className="page-section w-full px-6 py-16">
       <h2 className="text-4xl font-bold mb-6 text-center text-gray-900">Contact Us</h2>
       <p className="text-gray-600 text-center mb-10">
         Have a question or project in mind? Fill out the form below or email us directly at{" "}

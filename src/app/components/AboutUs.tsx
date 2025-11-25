@@ -1,6 +1,6 @@
 export default function AboutUs() {
   return (
-    <section className="page-section max-w-5xl mx-auto px-6 py-16 text-center">
+    <section className="page-section w-full px-6 py-16 text-center">
       <h2 className="text-4xl font-bold mb-8 text-gray-900">About MorexTech</h2>
 
       <p className="text-gray-600 leading-relaxed mb-6">

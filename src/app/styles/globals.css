@@ -425,3 +425,6 @@ footer {
     padding: 5rem 3rem;
   }
 }
+.page-section {
+  @apply container mx-auto;
+}
