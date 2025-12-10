@@ -1,10 +1,10 @@
 export default function AboutUs() {
   return (
     <section className="page-section w-full px-6 py-16 text-center">
-      <h2 className="text-4xl font-bold mb-8 text-gray-900">About MorexTech</h2>
+      <h2 className="text-4xl font-bold mb-8 text-gray-900">About More X Tech</h2>
 
       <p className="text-gray-600 leading-relaxed mb-6">
-        At <strong>MorexTech</strong>, we are passionate about crafting modern web and mobile solutions
+        At <strong>More X Tech</strong>, we are passionate about crafting modern web and mobile solutions
         that empower businesses and individuals to succeed in the digital world. With expertise in
         frontend, backend, and full-stack technologies, we help clients build seamless and scalable products.
       </p>
