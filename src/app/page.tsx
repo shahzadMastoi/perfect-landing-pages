@@ -72,14 +72,14 @@
 //         return (
 //           <div className="content">
 //             <h2>About Us</h2>
-//             <p>Perfect Landing Page helps you build high-converting pages with ease.</p>
+//             <p>Perfect Landing Pages helps you build high-converting pages with ease.</p>
 //           </div>
 //         );
 //       case 'contact':
 //         return (
 //           <div className="content">
 //             <h2>Contact Us</h2>
-//             <p>Email us at support@perfectlandingpage.com</p>
+//             <p>Email us at info@morextech.com</p>
 //           </div>
 //         );
 //       default:
@@ -91,7 +91,7 @@
 //     <main className="container">
 //       <header>
 //         <div className="brand-name">
-//           <h1>Perfect Landing Page</h1>
+//           <h1>Perfect Landing Pages</h1>
 //         </div>
 //         <nav>
 //           <button onClick={() => setActiveTab('home')} className={activeTab === 'home' ? 'active' : ''}>
@@ -138,7 +138,7 @@
 //       )}
 
 //       <footer>
-//         <p>&copy; 2025 Perfect Landing Page. All rights reserved.</p>
+//         <p>&copy; 2025 Perfect Landing Pages with <a href=https://www.morextech.com>More X Tech</a>. All rights reserved.</p>
 //       </footer>
 
 
@@ -230,5 +230,3 @@ export default function Home() {
     </main>
   );
 }
-
-
